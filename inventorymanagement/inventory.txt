@@ -1,0 +1,19 @@
+Apple Watch Series 3;48;399;N
+Google Home;238;129;N
+Phillips Hue Light Bulbs;105;69.99;N
+Nest Thermostat;34;249.99;N
+USB Web Camera;84;27.99;N
+Xbox One;62;219.99;N
+Xbox One;7;199.99;R
+PlayStation 4;118;299.99;N
+Nintendo Switch;38;299.99;N
+Lenovo T470;65;881.10;N
+Lenovo T470;2;752.10;U
+Lenovo Yoga Book;132;549.99;N
+8 AA Batteries;18;7.98;N
+Google Pixel 2;84;549.99;N
+DJI Phantom 4;20;1499.99;N
+HP Photosmart 7525;219;129.99;N
+HP Photosmart 7525;3;39.99;D
+USB Flash Drive;329;3.98;N
+USB Mouse;185;12.99;N
